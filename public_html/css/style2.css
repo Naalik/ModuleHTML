@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2016, 16:50:19
+    Author     : admin
+*/
+body{
+    font-family: papyrus;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.contenu{
+    
+}
+.tete{
+    font-size: 3.5em;
+    background-image: url(banner.png);
+    font-family: Bungee Inline;
+    color: goldenrod;
+    text-shadow: 4px 4px 0px #000000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.menu{
+    
+}
+.menuitem{
+    margin-left: 20px;
+    font-weight: bold;
+    background-color: slategrey;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: white;
+    padding: 10px;
+}
+.pied{
+    background-image: url(footer.png);
+    color: goldenrod;
+    text-shadow: 2px 2px 0px #000000;
+    font-weight: bold;
+}
